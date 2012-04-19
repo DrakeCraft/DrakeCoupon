@@ -1,0 +1,4 @@
+name: DrakeCoupon
+main: com.drakecoupon.DrakeCoupon
+version: 1.0.0
+softdepend: [Vault]
